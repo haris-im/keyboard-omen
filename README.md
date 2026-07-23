@@ -7,4 +7,8 @@ This will have changes based on need, please keep your suggestions appropriate i
 # Run
 `./build.bat` - This will create backlight_engine.exe (assuming you have g++)
 
-If you however do not want to build it, there will be a ZIP with the .exe file in the releases, thank you. (https://github.com/haris-im/keyboard-omen/releases/tag/v0.0.1)
+If you however do not want to build it, there will be a ZIP with the .exe file in the releases, thank you. 
+
+Unfortunately I do not have a signing certificate from microsoft to sign this exe so you have to go through the scary popup. I will release a proper version once I get such a certificate
+
+(https://github.com/haris-im/keyboard-omen/releases/tag/v0.0.1)

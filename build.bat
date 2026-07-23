@@ -1,1 +1,1 @@
-g++ .\main.cpp -o backlight_engine.exe -static -static-libgcc -static-libstdc++ -lgdi32
+g++ .\main.cpp -o backlight_engine.exe -static -static-libgcc -static-libstdc++ -lgdi32 -mwindows
